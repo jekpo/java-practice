@@ -3,7 +3,7 @@
 
 Classes generally follow the following format
 
-`
+```
 visibilityOfClass class NameOfClass {
 
     visibilityOfProperty dataTypeOfProperty propertyName;
@@ -18,7 +18,8 @@ visibilityOfClass class NameOfClass {
         // contents of method
     }
 }
-`
+
+```
 
 ## Example of a Class
 
@@ -62,12 +63,13 @@ public class Student {
 
 ## Examples of an Interface
 
-`
+```
 public interface InterfaceName {
 
     public returnTypeOfMethod nameOfMethod(arguments if any);
 }
-`
+
+```
 
 
 ```java
