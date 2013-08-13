@@ -3,13 +3,12 @@
 
 In Java, the data type is written first before the variable name
 
-`
-DataType variableName = value;
-`
-
 ## Simple Types ##
 
 ```java
+
+// DataType variableName = Value;
+
 int age = 40;
 
 double income = 500.00;
@@ -24,9 +23,12 @@ String emailAddress = "user.name@domain.com";
 
 ```java
 
-// DataType variableName = new TypeName();
-// ClassName variableName = new ClassName();
-// InterfaceName variableName = new ClassName();
+/** 
+DataType variableName = new TypeName();
+ClassName variableName = new ClassName();
+InterfaceName variableName = new ClassName();
+
+**/
 
 Student a = new Student();
 
