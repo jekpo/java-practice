@@ -29,10 +29,13 @@ public class Driver {
 
     public static void main(String[] args) {
     
+        // A variable that stores the full name
         String fullName = "June Ekpo";
         
+        // A variable that stores the message. Here we concatenate the one string with another string
         String message = "My Name is " + fullName;
         
+        // Prints out a message to the console
         System.out.println(message);
         
     }
