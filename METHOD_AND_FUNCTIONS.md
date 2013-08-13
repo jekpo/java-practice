@@ -1,4 +1,4 @@
-## Method Signatures ##
+## Method Signatures
 
 A method signature follows the following syntax:
 
@@ -22,7 +22,7 @@ boolean isAdult(int age)
 
 ```
 
-## How to Create a Function ## 
+## How to Create a Function
 
 A function or method in Java typically starts with the visibility classifiers (public, protected, private)
 
